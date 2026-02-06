@@ -1,4 +1,5 @@
  Practical 1: Simple Linear Regression
+ 
  Aim: To implement Simple Linear Regression using Machine Learning and predict Weight based on Height.
 
 📊 Dataset Used
@@ -44,4 +45,5 @@ The model predicts weight based on height with minimal error, showing a positive
 📂 Files Included
 
 WeightHeight_LinearRegression.ipynb
+
 LinearRegression.ipynb
