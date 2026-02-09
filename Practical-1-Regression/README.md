@@ -1,5 +1,6 @@
- Practical 1: Simple Linear Regression
- 
+Practical-01-Regression/filename.ipynb
+
+
  Aim: To implement Simple Linear Regression using Machine Learning and predict Weight based on Height.
 
 📊 Dataset Used
